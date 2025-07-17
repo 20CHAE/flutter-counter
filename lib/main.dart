@@ -85,7 +85,7 @@ class _MyHomePageState extends State<MyHomePage> {
           FloatingActionButton(
             // 누르면 : 기능 동작
             onPressed: _decreaseCounter,
-            // 버튼 꾹 눌렀을때 나오는 글자
+            // 버튼 꾹 눌렀을때 나오는 글자s
             tooltip: 'Decrease',
             child: const Icon(Icons.remove),
           ),
